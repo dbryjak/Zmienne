@@ -11,9 +11,13 @@ public class Zmienne {
         liczbaOkienWDomku = 32; // modyfikacja zmiennej
 
 
-        int LiczbaDrzwiWDomku = 10; // inicjalizacja zmiennej, (przypisana wartosci)
+        int liczbaDrzwiWDomku = 10; // inicjalizacja zmiennej, (przypisana wartosci)
 
+        int zmiennaDlaLiczbCałkowitych = 333;
+        double zmiennaDlaLiczbZPrzecinkiem = 3.33;
 
+        int sumaOtworówWDomkku = liczbaOkienWDomku + liczbaDrzwiWDomku;
+        int sumaKolejna = zmiennaDlaLiczbCałkowitych + liczbaDrzwiWDomku;
 
     }
 
